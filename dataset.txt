@@ -1,0 +1,2 @@
+Video dataset: https://figshare.com/articles/dataset/Yoga_Pose_Dataset/15112320
+File CSV (Đã convert): https://drive.google.com/file/d/1sq2nwLZ0PwaszGGschPocrsBKPJlIk0F/view?usp=sharing
